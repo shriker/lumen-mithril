@@ -34,7 +34,13 @@ php -S localhost:8000 -t public
 
 Watching the frontend with Webpack
 ```bash
-npm start
+npm run start
+```
+
+## Production Build
+
+```bash
+npm run build
 ```
 
 ## License
