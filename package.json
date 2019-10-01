@@ -1,0 +1,40 @@
+{
+  "name": "lumen-mithril",
+  "version": "1.0.0",
+  "description": "A quick start project template with Lumen and Mithril.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "webpack src/index.js --output public/js/app.js -d --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriker/lumen-mithril.git"
+  },
+  "keywords": [
+    "lumithril",
+    "lumen",
+    "laravel",
+    "mithril",
+    "mithriljs",
+    "starter",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Jodie Struthers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shriker/lumen-mithril/issues"
+  },
+  "homepage": "https://github.com/shriker/lumen-mithril#readme",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
