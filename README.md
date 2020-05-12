@@ -1,12 +1,12 @@
 # Lumen + Mithril = Lumithril
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/shriker/lumen-mithriljs-starter/blob/master/LICENSE.md) [![Lumen](https://img.shields.io/badge/lumen-6.0-%23f4645f)](https://lumen.laravel.com/) [![Mithril](https://img.shields.io/badge/mithril-2.0.4-%231e5799)](https://mithril.js.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/shriker/lumen-mithriljs-starter/blob/master/LICENSE.md) [![Lumen](https://img.shields.io/badge/lumen-7.0-%23f4645f)](https://lumen.laravel.com/) [![Mithril](https://img.shields.io/badge/mithril-2.0.4-%231e5799)](https://mithril.js.org/)
 
 A quick start project template with [Lumen](https://lumen.laravel.com/docs) and [Mithril](https://mithril.js.org/).
 
 ## Requirements
 
-* PHP ^7.2, OpenSSL PHP Extension, PDO PHP Extension, Mbstring PHP Extension
+* PHP ^7.2.5, OpenSSL PHP Extension, PDO PHP Extension, Mbstring PHP Extension
 * SSH (command-line) access to run [Composer](https://getcomposer.org/)
 * [Node](https://nodejs.org/en/download/)
 

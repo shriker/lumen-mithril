@@ -1,6 +1,6 @@
 {
   "name": "lumen-mithril",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick start project template with Lumen and Mithril.",
   "main": "src/index.js",
   "directories": {
@@ -35,7 +35,7 @@
     "mithril": "^2.0.4"
   },
   "devDependencies": {
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9"
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
